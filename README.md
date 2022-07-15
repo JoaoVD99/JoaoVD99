@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoaoVD99
-- 👀 I’m interested in Delphi
-- 🌱 I’m currently learning Delphi 
-- 💞️ I’m looking to collaborate on Delphi
+- 👀 I’m interested in C#/.NET, Delphi
+- 🌱 I’m currently learning C#, .NET, SQL, Git and Delphi 
+- 💞️ I’m looking to collaborate on C#/.NET, Delphi
 - 📫 How to reach me jvmga99@gmail.com
 
 <!---
