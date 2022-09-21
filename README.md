@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoaoVD99
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA 
-- 💞️ I’m looking to collaborate on JAVA
+- 👀 I’m interested in .NET Framework
+- 🌱 I’m currently learning .NET 
+- 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me jvmga99@gmail.com
 
 <!---
